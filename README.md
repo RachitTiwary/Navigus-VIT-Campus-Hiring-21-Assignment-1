@@ -3,6 +3,8 @@ A presence service which shows people that are currently viewing a particular do
 
 Assignment 1
 
+Unzip the folder tutorial-env.tar.gz
+
 Steps To Follow:
 
 1. tutorial-env -> bin
